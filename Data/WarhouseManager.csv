@@ -1,16 +1,16 @@
-,ManagerID,ManagerName,ManagerDOB,ManagerAge,ManagerGender,ManagerEmail,ManagerPhoneNumber,ManagerCreatedDate
-0,1,Donald George,1997-08-21,27,M,donaldgeorge.2py@gmail.com,487-416-6313,21-4-2015
-1,2,Emily Casey,1995-07-10,29,F,emilycasey.nm3@gmail.com,357-632-9525,14-6-2016
-2,3,Michelle Morris,2001-09-26,23,F,michellemorris.iad@gmail.com,202-250-4249,7-4-2019
-3,4,Manuel Marks,1998-10-21,26,M,manuelmarks.88n@gmail.com,313-710-3651,18-1-2019
-4,5,Kathryn Baker,1998-11-01,26,F,kathrynbaker.e9i@gmail.com,228-431-1591,27-7-2017
-5,6,Victor Vargas,1999-09-13,25,M,victorvargas.i5l@gmail.com,631-167-8727,1-5-2016
-6,7,Holly Sanchez,1998-06-18,26,F,hollysanchez.2ff@gmail.com,716-124-5328,21-12-2017
-7,8,James Meza,1996-08-23,28,M,jamesmeza.30z@gmail.com,824-565-1752,6-9-2024
-8,9,Troy Herring,1998-09-03,26,M,troyherring.9k7@gmail.com,129-398-6480,10-10-2022
-9,10,Austin Alexander,2001-08-08,23,M,austinalexander.e50@gmail.com,271-470-7538,11-2-2020
-10,11,Joseph Garcia,1995-09-27,29,M,josephgarcia.qui@gmail.com,654-484-3226,8-3-2019
-11,12,Jennifer Simmons,2001-01-21,23,F,jennifersimmons.j23@gmail.com,804-236-1886,2-12-2015
-12,13,Alyssa Davis,1997-03-18,27,F,alyssadavis.bt1@gmail.com,171-213-1788,11-4-2015
-13,14,Tina Maynard,1996-02-07,28,F,tinamaynard.3i2@gmail.com,812-514-5311,27-1-2016
-14,15,George Campbell,2001-12-16,23,M,georgecampbell.ua7@gmail.com,326-624-6164,3-2-2023
+ManagerID,ManagerName,ManagerDOB,ManagerAge,ManagerGender,ManagerEmail,ManagerPhoneNumber,ManagerCreatedDate
+1,Donald George,21/08/1997,27,M,donaldgeorge.2py@gmail.com,487-416-6313,21/04/2015
+2,Emily Casey,10/07/1995,29,F,emilycasey.nm3@gmail.com,357-632-9525,14/06/2016
+3,Michelle Morris,26/09/2001,23,F,michellemorris.iad@gmail.com,202-250-4249,07/04/2019
+4,Manuel Marks,21/10/1998,26,M,manuelmarks.88n@gmail.com,313-710-3651,18/01/2019
+5,Kathryn Baker,01/11/1998,26,F,kathrynbaker.e9i@gmail.com,228-431-1591,27/07/2017
+6,Victor Vargas,13/09/1999,25,M,victorvargas.i5l@gmail.com,631-167-8727,01/05/2016
+7,Holly Sanchez,18/06/1998,26,F,hollysanchez.2ff@gmail.com,716-124-5328,21/12/2017
+8,James Meza,23/08/1996,28,M,jamesmeza.30z@gmail.com,824-565-1752,06/09/2024
+9,Troy Herring,03/09/1998,26,M,troyherring.9k7@gmail.com,129-398-6480,10/10/2022
+10,Austin Alexander,08/08/2001,23,M,austinalexander.e50@gmail.com,271-470-7538,11/02/2020
+11,Joseph Garcia,27/09/1995,29,M,josephgarcia.qui@gmail.com,654-484-3226,08/03/2019
+12,Jennifer Simmons,21/01/2001,23,F,jennifersimmons.j23@gmail.com,804-236-1886,02/12/2015
+13,Alyssa Davis,18/03/1997,27,F,alyssadavis.bt1@gmail.com,171-213-1788,11/04/2015
+14,Tina Maynard,07/02/1996,28,F,tinamaynard.3i2@gmail.com,812-514-5311,27/01/2016
+15,George Campbell,16/12/2001,23,M,georgecampbell.ua7@gmail.com,326-624-6164,03/02/2023

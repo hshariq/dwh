@@ -1,0 +1,501 @@
+InventoryID,InventoryName,InventoryRackNumber,InventoryBatchNumber,Inventory_Initial_Quantity_Ordered,InventoryQuantityUsed,InventoryQuantityinTransit,InventoryQuantityinStock,InventoryReorderThreshold,InventoryDamagedQuantity,InventoryStockStatus,InventoryType,WarehouseID,RawMaterialID
+1,Inv1,534,1453,239,6,37,233,10,6,Damaged,Finished Goods,12,34
+2,Inv2,928,834,299,55,20,244,10,8,Out of Stock,Finished Goods,8,49
+3,Inv3,733,1090,164,86,30,78,10,5,Damaged,Raw Material,7,22
+4,Inv4,278,726,121,23,40,98,10,6,Damaged,Finished Goods,14,15
+5,Inv5,980,475,164,36,55,128,10,7,In Transit,Work in Progress,14,6
+6,Inv6,570,205,169,80,23,89,10,8,In Transit,Finished Goods,12,31
+7,Inv7,51,623,255,43,29,212,10,5,Damaged,Raw Material,12,27
+8,Inv8,509,665,189,98,41,91,10,7,Out of Stock,Work in Progress,5,62
+9,Inv9,213,547,171,72,24,99,10,7,Out of Stock,Finished Goods,4,51
+10,Inv10,931,1056,113,28,42,85,10,9,In Stock,Finished Goods,1,14
+11,Inv11,326,575,278,93,49,185,10,9,In Stock,Finished Goods,0,45
+12,Inv12,753,880,282,70,50,212,10,9,Out of Stock,Work in Progress,6,6
+13,Inv13,748,811,288,67,31,221,10,6,In Stock,Finished Goods,13,30
+14,Inv14,97,689,106,5,32,101,10,5,Damaged,Raw Material,4,4
+15,Inv15,197,705,226,44,57,182,10,5,Out of Stock,Work in Progress,7,2
+16,Inv16,266,85,192,24,52,168,10,7,Damaged,Finished Goods,5,23
+17,Inv17,768,869,182,26,56,156,10,5,In Transit,Finished Goods,7,16
+18,Inv18,440,1370,271,60,51,211,10,8,In Transit,Finished Goods,5,36
+19,Inv19,356,485,152,77,24,75,10,8,Out of Stock,Raw Material,7,16
+20,Inv20,405,784,184,30,34,154,10,7,Damaged,Finished Goods,5,27
+21,Inv21,681,612,103,14,20,89,10,7,Damaged,Work in Progress,7,23
+22,Inv22,770,864,136,82,53,54,10,8,Out of Stock,Finished Goods,10,64
+23,Inv23,953,77,255,33,46,222,10,9,In Stock,Finished Goods,13,16
+24,Inv24,727,40,296,99,22,197,10,7,Damaged,Finished Goods,2,55
+25,Inv25,907,759,151,33,39,118,10,5,In Stock,Raw Material,4,35
+26,Inv26,847,182,175,53,50,122,10,9,In Stock,Raw Material,4,50
+27,Inv27,336,1297,214,37,46,177,10,9,In Transit,Finished Goods,0,25
+28,Inv28,796,657,245,48,56,197,10,7,Out of Stock,Work in Progress,11,45
+29,Inv29,350,678,242,18,51,224,10,7,In Stock,Raw Material,12,58
+30,Inv30,451,1310,219,21,31,198,10,8,In Stock,Raw Material,9,32
+31,Inv31,210,45,131,1,27,130,10,5,Out of Stock,Raw Material,14,48
+32,Inv32,286,541,118,87,46,31,10,6,Out of Stock,Finished Goods,10,19
+33,Inv33,33,1485,152,5,54,147,10,5,Out of Stock,Finished Goods,7,19
+34,Inv34,251,975,132,5,33,127,10,5,Damaged,Work in Progress,12,48
+35,Inv35,831,476,148,46,31,102,10,9,In Stock,Work in Progress,2,2
+36,Inv36,897,1221,149,12,54,137,10,8,In Transit,Raw Material,13,22
+37,Inv37,842,148,146,6,54,140,10,8,In Transit,Work in Progress,10,18
+38,Inv38,139,1155,219,20,36,199,10,6,Out of Stock,Work in Progress,0,21
+39,Inv39,422,192,199,21,49,178,10,7,Out of Stock,Raw Material,12,36
+40,Inv40,814,582,298,18,42,280,10,7,Out of Stock,Raw Material,0,51
+41,Inv41,608,738,160,90,46,70,10,6,Damaged,Work in Progress,3,55
+42,Inv42,866,278,169,50,44,119,10,8,In Transit,Raw Material,3,54
+43,Inv43,370,702,210,96,40,114,10,5,In Transit,Raw Material,10,41
+44,Inv44,914,1191,250,73,52,177,10,8,Out of Stock,Finished Goods,4,54
+45,Inv45,880,1377,232,24,33,208,10,9,Out of Stock,Raw Material,0,27
+46,Inv46,821,246,296,76,58,220,10,7,In Transit,Raw Material,11,21
+47,Inv47,601,1451,264,11,49,253,10,9,In Stock,Finished Goods,5,20
+48,Inv48,685,318,227,50,58,177,10,7,Damaged,Raw Material,2,64
+49,Inv49,28,997,115,85,54,30,10,5,Out of Stock,Work in Progress,11,32
+50,Inv50,881,1430,178,14,37,164,10,6,In Stock,Raw Material,12,17
+51,Inv51,806,421,252,34,41,218,10,5,Damaged,Raw Material,9,14
+52,Inv52,81,1096,186,63,22,123,10,7,Out of Stock,Work in Progress,3,24
+53,Inv53,424,519,227,5,46,222,10,9,Damaged,Raw Material,1,25
+54,Inv54,300,433,107,15,59,92,10,8,Damaged,Raw Material,10,3
+55,Inv55,9,1011,184,71,39,113,10,8,Out of Stock,Finished Goods,11,33
+56,Inv56,376,764,168,89,20,79,10,6,In Stock,Finished Goods,14,17
+57,Inv57,738,1329,263,65,53,198,10,5,In Transit,Raw Material,5,47
+58,Inv58,91,184,197,32,32,165,10,8,In Stock,Work in Progress,13,58
+59,Inv59,105,853,246,27,39,219,10,8,In Stock,Raw Material,11,64
+60,Inv60,595,86,190,14,41,176,10,9,Damaged,Raw Material,0,33
+61,Inv61,603,1314,155,70,47,85,10,8,Damaged,Finished Goods,1,5
+62,Inv62,85,118,135,40,59,95,10,6,Out of Stock,Finished Goods,9,22
+63,Inv63,290,916,223,23,43,200,10,5,In Transit,Finished Goods,0,33
+64,Inv64,431,482,127,10,50,117,10,5,Damaged,Work in Progress,4,60
+65,Inv65,959,224,164,53,21,111,10,9,Damaged,Work in Progress,7,11
+66,Inv66,781,1423,282,89,35,193,10,7,Damaged,Work in Progress,0,12
+67,Inv67,634,859,208,78,22,130,10,5,Damaged,Work in Progress,6,22
+68,Inv68,77,1166,142,77,41,65,10,7,In Transit,Raw Material,3,15
+69,Inv69,750,396,137,44,31,93,10,5,Out of Stock,Raw Material,0,22
+70,Inv70,732,538,114,7,46,107,10,7,In Transit,Work in Progress,10,5
+71,Inv71,647,1411,105,65,53,40,10,8,Damaged,Finished Goods,9,2
+72,Inv72,965,137,122,62,44,60,10,9,In Transit,Finished Goods,11,59
+73,Inv73,729,739,239,18,25,221,10,7,Damaged,Work in Progress,1,15
+74,Inv74,574,556,253,97,28,156,10,8,Out of Stock,Work in Progress,3,50
+75,Inv75,369,451,127,69,43,58,10,6,In Stock,Finished Goods,5,52
+76,Inv76,645,983,220,38,50,182,10,7,In Stock,Work in Progress,14,7
+77,Inv77,643,1202,261,96,55,165,10,8,Damaged,Raw Material,5,3
+78,Inv78,810,645,112,7,27,105,10,5,Damaged,Finished Goods,0,7
+79,Inv79,577,232,255,3,45,252,10,5,Out of Stock,Raw Material,5,27
+80,Inv80,987,577,134,95,42,39,10,5,In Stock,Raw Material,11,51
+81,Inv81,255,1312,149,32,41,117,10,8,In Transit,Raw Material,1,41
+82,Inv82,868,810,139,74,31,65,10,8,Damaged,Work in Progress,4,62
+83,Inv83,731,745,117,2,29,115,10,9,In Stock,Raw Material,7,13
+84,Inv84,592,1340,284,58,30,226,10,7,Damaged,Work in Progress,7,40
+85,Inv85,932,588,249,24,25,225,10,6,Out of Stock,Work in Progress,1,7
+86,Inv86,63,2,299,95,40,204,10,5,Out of Stock,Finished Goods,12,34
+87,Inv87,157,656,117,74,56,43,10,6,In Transit,Work in Progress,13,38
+88,Inv88,470,913,193,73,34,120,10,9,Out of Stock,Raw Material,14,5
+89,Inv89,382,1020,189,19,22,170,10,5,Damaged,Raw Material,4,63
+90,Inv90,53,134,188,9,42,179,10,9,Out of Stock,Raw Material,8,26
+91,Inv91,149,47,297,48,22,249,10,9,In Stock,Work in Progress,4,21
+92,Inv92,44,790,129,10,28,119,10,6,Out of Stock,Work in Progress,1,43
+93,Inv93,566,897,145,63,40,82,10,6,Damaged,Finished Goods,7,48
+94,Inv94,862,527,240,55,58,185,10,6,Out of Stock,Work in Progress,2,10
+95,Inv95,744,1178,152,43,49,109,10,8,In Transit,Work in Progress,0,44
+96,Inv96,529,1459,225,63,33,162,10,6,In Transit,Raw Material,0,21
+97,Inv97,723,671,118,32,40,86,10,7,Damaged,Work in Progress,2,39
+98,Inv98,443,62,116,82,23,34,10,8,Out of Stock,Finished Goods,8,58
+99,Inv99,979,644,149,14,42,135,10,6,In Transit,Raw Material,13,9
+100,Inv100,330,1195,168,11,40,157,10,8,In Transit,Raw Material,1,19
+101,Inv101,571,848,201,24,43,177,10,5,In Transit,Work in Progress,14,0
+102,Inv102,665,119,127,4,46,123,10,5,Out of Stock,Finished Goods,8,20
+103,Inv103,398,636,206,81,39,125,10,6,Out of Stock,Finished Goods,3,48
+104,Inv104,244,440,101,39,50,62,10,9,In Stock,Raw Material,6,46
+105,Inv105,656,298,264,98,36,166,10,6,Out of Stock,Finished Goods,9,47
+106,Inv106,343,630,194,36,54,158,10,9,In Stock,Finished Goods,5,44
+107,Inv107,767,659,147,24,56,123,10,8,In Transit,Raw Material,5,6
+108,Inv108,995,1473,254,7,31,247,10,5,Damaged,Raw Material,5,41
+109,Inv109,416,775,151,76,40,75,10,6,In Transit,Raw Material,3,13
+110,Inv110,650,813,204,35,53,169,10,9,In Stock,Raw Material,11,53
+111,Inv111,513,121,223,57,29,166,10,5,In Transit,Raw Material,11,13
+112,Inv112,328,805,232,21,47,211,10,8,Out of Stock,Work in Progress,0,59
+113,Inv113,381,1110,115,36,49,79,10,7,In Transit,Raw Material,4,13
+114,Inv114,187,1031,161,54,48,107,10,5,In Stock,Raw Material,6,27
+115,Inv115,380,1437,134,80,28,54,10,6,In Stock,Finished Goods,4,22
+116,Inv116,17,1434,116,69,21,47,10,5,In Transit,Raw Material,11,16
+117,Inv117,397,887,220,56,57,164,10,6,In Stock,Raw Material,13,8
+118,Inv118,49,1127,145,71,37,74,10,9,Out of Stock,Finished Goods,11,64
+119,Inv119,726,194,170,91,25,79,10,7,Out of Stock,Finished Goods,6,16
+120,Inv120,76,971,164,62,36,102,10,5,In Stock,Work in Progress,8,60
+121,Inv121,332,1304,177,21,20,156,10,5,Damaged,Finished Goods,5,4
+122,Inv122,371,1355,276,40,27,236,10,8,Out of Stock,Finished Goods,7,14
+123,Inv123,202,908,279,21,22,258,10,5,Damaged,Raw Material,11,8
+124,Inv124,26,1476,193,89,26,104,10,8,In Stock,Finished Goods,11,44
+125,Inv125,83,1133,258,5,20,253,10,5,In Stock,Work in Progress,12,14
+126,Inv126,960,330,161,63,54,98,10,9,Out of Stock,Finished Goods,3,34
+127,Inv127,499,1180,298,71,53,227,10,8,Damaged,Finished Goods,12,36
+128,Inv128,35,1144,202,21,52,181,10,9,In Stock,Work in Progress,12,61
+129,Inv129,487,542,266,30,33,236,10,7,Out of Stock,Finished Goods,2,20
+130,Inv130,786,1039,245,67,28,178,10,6,Out of Stock,Work in Progress,11,39
+131,Inv131,483,152,261,7,44,254,10,9,Damaged,Work in Progress,0,15
+132,Inv132,12,1343,283,9,24,274,10,6,Out of Stock,Work in Progress,13,9
+133,Inv133,527,888,215,6,36,209,10,7,In Transit,Finished Goods,2,49
+134,Inv134,669,772,229,33,55,196,10,9,Damaged,Raw Material,8,8
+135,Inv135,658,841,284,93,31,191,10,7,In Stock,Work in Progress,4,42
+136,Inv136,163,918,181,70,28,111,10,9,In Transit,Work in Progress,6,44
+137,Inv137,217,1291,134,2,36,132,10,8,Out of Stock,Work in Progress,9,7
+138,Inv138,743,49,173,28,36,145,10,5,In Transit,Finished Goods,4,4
+139,Inv139,229,1465,258,54,26,204,10,6,In Stock,Raw Material,0,53
+140,Inv140,478,1368,166,55,41,111,10,8,In Transit,Finished Goods,8,35
+141,Inv141,951,369,298,67,37,231,10,6,Damaged,Finished Goods,4,24
+142,Inv142,174,390,144,35,57,109,10,7,Out of Stock,Raw Material,1,2
+143,Inv143,584,480,147,97,49,50,10,5,Damaged,Work in Progress,6,9
+144,Inv144,387,229,140,85,24,55,10,7,In Transit,Work in Progress,2,9
+145,Inv145,659,1072,110,51,27,59,10,7,In Stock,Work in Progress,9,17
+146,Inv146,396,809,203,90,48,113,10,6,Damaged,Work in Progress,10,60
+147,Inv147,348,495,172,5,43,167,10,7,Out of Stock,Work in Progress,11,55
+148,Inv148,793,324,260,10,43,250,10,8,In Transit,Work in Progress,13,11
+149,Inv149,557,572,184,15,52,169,10,8,In Stock,Finished Goods,5,5
+150,Inv150,25,681,193,56,38,137,10,6,Damaged,Raw Material,5,24
+151,Inv151,110,1146,157,20,29,137,10,7,In Stock,Work in Progress,5,60
+152,Inv152,787,136,192,36,44,156,10,8,In Transit,Finished Goods,14,33
+153,Inv153,404,1251,222,11,42,211,10,6,Out of Stock,Work in Progress,7,2
+154,Inv154,638,1167,126,41,51,85,10,8,Out of Stock,Raw Material,13,52
+155,Inv155,90,301,125,74,47,51,10,6,Damaged,Work in Progress,1,6
+156,Inv156,863,1308,128,75,54,53,10,8,In Stock,Finished Goods,0,62
+157,Inv157,735,1409,289,85,28,204,10,5,In Stock,Raw Material,10,35
+158,Inv158,992,937,110,33,36,77,10,8,In Stock,Work in Progress,3,22
+159,Inv159,710,1097,167,16,51,151,10,5,In Transit,Raw Material,2,60
+160,Inv160,333,447,178,56,58,122,10,9,In Transit,Work in Progress,5,54
+161,Inv161,611,1062,156,46,23,110,10,8,Damaged,Raw Material,12,38
+162,Inv162,773,1069,197,45,49,152,10,9,Damaged,Work in Progress,3,25
+163,Inv163,190,945,177,93,24,84,10,8,In Stock,Finished Goods,4,5
+164,Inv164,606,1374,172,48,45,124,10,5,In Transit,Work in Progress,13,23
+165,Inv165,428,603,129,23,40,106,10,7,Out of Stock,Finished Goods,7,55
+166,Inv166,707,101,138,19,46,119,10,9,Out of Stock,Raw Material,9,21
+167,Inv167,341,53,134,39,44,95,10,7,In Stock,Finished Goods,9,40
+168,Inv168,323,1159,282,99,48,183,10,5,Out of Stock,Finished Goods,7,6
+169,Inv169,89,14,106,23,46,83,10,7,In Transit,Raw Material,4,38
+170,Inv170,334,757,102,37,38,65,10,9,Damaged,Work in Progress,1,49
+171,Inv171,373,283,215,88,33,127,10,8,In Transit,Finished Goods,10,63
+172,Inv172,626,782,160,16,37,144,10,9,Damaged,Finished Goods,5,45
+173,Inv173,521,208,138,92,51,46,10,6,Damaged,Raw Material,6,5
+174,Inv174,989,590,122,73,45,49,10,8,Damaged,Work in Progress,10,25
+175,Inv175,31,1383,218,64,43,154,10,7,Out of Stock,Finished Goods,11,22
+176,Inv176,193,357,279,27,49,252,10,7,In Transit,Work in Progress,1,37
+177,Inv177,447,780,130,83,20,47,10,5,In Transit,Raw Material,9,51
+178,Inv178,402,306,110,33,33,77,10,9,In Stock,Work in Progress,10,63
+179,Inv179,757,393,161,88,20,73,10,6,Damaged,Finished Goods,3,64
+180,Inv180,777,477,193,81,56,112,10,5,In Stock,Finished Goods,11,15
+181,Inv181,109,653,156,4,41,152,10,8,In Stock,Work in Progress,12,40
+182,Inv182,996,754,285,25,31,260,10,8,In Stock,Work in Progress,6,16
+183,Inv183,749,341,115,22,57,93,10,7,In Stock,Finished Goods,13,11
+184,Inv184,555,1116,178,4,56,174,10,9,In Stock,Work in Progress,12,56
+185,Inv185,596,214,143,41,32,102,10,5,In Transit,Finished Goods,10,7
+186,Inv186,843,717,213,80,42,133,10,5,Out of Stock,Work in Progress,8,1
+187,Inv187,363,1109,247,69,30,178,10,8,Damaged,Work in Progress,9,27
+188,Inv188,351,499,225,60,44,165,10,8,Damaged,Raw Material,10,1
+189,Inv189,460,1285,215,59,43,156,10,9,Damaged,Work in Progress,12,39
+190,Inv190,152,879,134,54,54,80,10,5,In Transit,Work in Progress,0,44
+191,Inv191,848,34,179,29,34,150,10,6,In Transit,Finished Goods,5,50
+192,Inv192,901,65,237,34,27,203,10,6,In Transit,Finished Goods,11,11
+193,Inv193,142,332,271,36,29,235,10,9,In Stock,Finished Goods,9,43
+194,Inv194,252,1428,173,60,57,113,10,5,In Transit,Raw Material,2,40
+195,Inv195,589,1185,114,13,51,101,10,6,In Transit,Finished Goods,10,39
+196,Inv196,34,274,114,72,44,42,10,6,In Transit,Work in Progress,10,54
+197,Inv197,526,984,113,53,53,60,10,8,Damaged,Finished Goods,13,38
+198,Inv198,500,1378,145,16,59,129,10,5,Damaged,Finished Goods,3,28
+199,Inv199,734,788,231,79,33,152,10,7,In Transit,Raw Material,13,10
+200,Inv200,929,473,163,29,23,134,10,6,In Stock,Finished Goods,7,10
+201,Inv201,125,1256,175,4,51,171,10,5,Out of Stock,Work in Progress,2,8
+202,Inv202,709,201,124,71,33,53,10,9,Out of Stock,Finished Goods,7,21
+203,Inv203,18,1354,180,11,29,169,10,8,In Stock,Work in Progress,10,31
+204,Inv204,893,250,298,88,30,210,10,5,In Stock,Work in Progress,7,31
+205,Inv205,291,792,263,72,54,191,10,5,In Transit,Work in Progress,8,9
+206,Inv206,835,1316,201,83,24,118,10,6,Out of Stock,Raw Material,5,47
+207,Inv207,808,5,150,51,33,99,10,5,Damaged,Work in Progress,7,30
+208,Inv208,23,1200,107,9,58,98,10,9,In Transit,Finished Goods,1,31
+209,Inv209,493,1317,242,70,51,172,10,7,In Stock,Work in Progress,0,1
+210,Inv210,640,1008,241,53,59,188,10,6,Damaged,Raw Material,13,27
+211,Inv211,926,789,103,29,27,74,10,5,In Stock,Work in Progress,10,46
+212,Inv212,654,845,113,84,21,29,10,6,Out of Stock,Raw Material,10,31
+213,Inv213,312,594,149,19,29,130,10,7,In Transit,Work in Progress,14,1
+214,Inv214,484,116,188,94,43,94,10,5,In Stock,Work in Progress,2,27
+215,Inv215,313,743,114,28,29,86,10,8,Damaged,Work in Progress,6,62
+216,Inv216,537,1369,172,62,54,110,10,5,In Transit,Work in Progress,8,30
+217,Inv217,837,61,141,89,47,52,10,8,In Transit,Finished Goods,11,10
+218,Inv218,708,1240,210,45,35,165,10,9,In Stock,Finished Goods,6,60
+219,Inv219,961,1249,164,48,22,116,10,8,Damaged,Raw Material,6,56
+220,Inv220,591,626,173,67,21,106,10,6,Out of Stock,Work in Progress,8,14
+221,Inv221,912,465,135,94,31,41,10,5,In Transit,Work in Progress,3,11
+222,Inv222,46,865,144,54,47,90,10,9,Out of Stock,Work in Progress,7,28
+223,Inv223,221,794,207,35,43,172,10,5,Out of Stock,Raw Material,14,34
+224,Inv224,789,209,224,48,51,176,10,9,Out of Stock,Raw Material,3,19
+225,Inv225,274,69,129,52,38,77,10,7,Out of Stock,Finished Goods,7,55
+226,Inv226,316,18,284,28,39,256,10,8,In Transit,Work in Progress,6,15
+227,Inv227,462,1301,262,8,33,254,10,5,In Transit,Work in Progress,1,4
+228,Inv228,679,753,278,64,31,214,10,8,In Transit,Work in Progress,4,23
+229,Inv229,540,202,213,55,47,158,10,7,In Transit,Finished Goods,8,58
+230,Inv230,715,1313,244,41,57,203,10,6,Out of Stock,Work in Progress,6,18
+231,Inv231,746,1486,215,56,44,159,10,7,Out of Stock,Raw Material,12,36
+232,Inv232,445,1440,117,36,41,81,10,6,Damaged,Finished Goods,8,45
+233,Inv233,54,1463,259,58,23,201,10,9,Out of Stock,Work in Progress,6,53
+234,Inv234,988,1397,125,30,54,95,10,5,In Stock,Work in Progress,10,28
+235,Inv235,564,13,216,16,30,200,10,6,In Stock,Raw Material,8,16
+236,Inv236,607,96,147,16,38,131,10,6,In Stock,Raw Material,7,55
+237,Inv237,983,315,204,95,47,109,10,8,In Stock,Raw Material,6,25
+238,Inv238,114,891,149,42,28,107,10,7,In Transit,Finished Goods,1,31
+239,Inv239,457,776,225,33,30,192,10,5,In Stock,Raw Material,2,38
+240,Inv240,296,385,111,44,22,67,10,5,Out of Stock,Raw Material,12,23
+241,Inv241,218,955,207,16,54,191,10,8,In Transit,Work in Progress,2,30
+242,Inv242,990,787,247,68,21,179,10,9,In Stock,Finished Goods,2,64
+243,Inv243,249,505,158,3,25,155,10,9,In Transit,Raw Material,1,16
+244,Inv244,833,1347,130,51,25,79,10,9,Out of Stock,Finished Goods,1,52
+245,Inv245,522,1495,136,90,50,46,10,6,Damaged,Work in Progress,1,22
+246,Inv246,802,1382,132,3,24,129,10,8,In Stock,Work in Progress,6,6
+247,Inv247,531,967,103,11,38,92,10,5,Damaged,Work in Progress,0,50
+248,Inv248,549,989,104,26,53,78,10,8,In Transit,Raw Material,11,39
+249,Inv249,315,513,264,51,34,213,10,7,Out of Stock,Work in Progress,4,26
+250,Inv250,345,471,290,89,35,201,10,7,Damaged,Finished Goods,10,43
+251,Inv251,406,80,230,45,22,185,10,9,In Stock,Work in Progress,4,48
+252,Inv252,690,963,293,22,32,271,10,9,Damaged,Raw Material,10,36
+253,Inv253,582,187,206,4,38,202,10,6,Out of Stock,Finished Goods,14,56
+254,Inv254,724,1380,130,12,26,118,10,5,Damaged,Work in Progress,8,9
+255,Inv255,466,289,287,72,29,215,10,6,Out of Stock,Work in Progress,2,27
+256,Inv256,624,682,117,42,34,75,10,7,Damaged,Finished Goods,7,42
+257,Inv257,844,798,176,23,34,153,10,7,Damaged,Raw Material,4,20
+258,Inv258,70,858,248,81,21,167,10,9,In Stock,Raw Material,9,27
+259,Inv259,873,1427,138,34,50,104,10,9,Damaged,Raw Material,8,47
+260,Inv260,160,322,169,62,32,107,10,5,In Transit,Finished Goods,3,60
+261,Inv261,772,808,268,9,51,259,10,7,In Stock,Raw Material,13,62
+262,Inv262,689,219,126,96,37,30,10,7,Damaged,Finished Goods,12,23
+263,Inv263,171,909,194,79,47,115,10,5,In Transit,Raw Material,7,59
+264,Inv264,72,158,281,22,48,259,10,8,Damaged,Finished Goods,7,22
+265,Inv265,414,927,238,26,52,212,10,8,In Transit,Work in Progress,13,60
+266,Inv266,415,1339,277,74,39,203,10,7,In Stock,Finished Goods,12,49
+267,Inv267,809,560,147,71,50,76,10,8,In Stock,Raw Material,13,7
+268,Inv268,982,25,162,15,27,147,10,9,Out of Stock,Raw Material,4,12
+269,Inv269,677,1277,128,90,32,38,10,9,Damaged,Raw Material,0,46
+270,Inv270,937,548,177,22,36,155,10,5,In Transit,Finished Goods,4,25
+271,Inv271,485,904,145,10,51,135,10,6,In Stock,Work in Progress,13,46
+272,Inv272,393,1194,150,59,48,91,10,6,Damaged,Finished Goods,4,0
+273,Inv273,651,244,295,29,50,266,10,6,In Transit,Work in Progress,2,15
+274,Inv274,74,725,281,33,36,248,10,8,In Stock,Work in Progress,2,34
+275,Inv275,61,489,171,29,43,142,10,7,Out of Stock,Work in Progress,1,61
+276,Inv276,769,264,209,53,50,156,10,9,In Stock,Raw Material,3,25
+277,Inv277,579,218,210,80,52,130,10,8,In Stock,Raw Material,9,39
+278,Inv278,16,427,118,48,37,70,10,8,Damaged,Finished Goods,8,16
+279,Inv279,852,1461,106,38,57,68,10,8,In Transit,Work in Progress,12,18
+280,Inv280,924,378,199,98,25,101,10,7,In Stock,Raw Material,14,0
+281,Inv281,891,607,272,18,38,254,10,7,Out of Stock,Finished Goods,7,24
+282,Inv282,179,392,285,58,48,227,10,5,Damaged,Finished Goods,6,8
+283,Inv283,730,22,269,83,29,186,10,8,Out of Stock,Raw Material,7,44
+284,Inv284,927,899,281,99,54,182,10,9,In Stock,Raw Material,10,40
+285,Inv285,318,1023,102,7,53,95,10,7,Damaged,Raw Material,1,42
+286,Inv286,434,266,162,24,36,138,10,7,In Stock,Raw Material,4,53
+287,Inv287,695,1071,164,5,58,159,10,9,Damaged,Raw Material,8,59
+288,Inv288,816,920,191,74,54,117,10,7,In Transit,Finished Goods,5,41
+289,Inv289,368,1151,242,27,39,215,10,9,In Transit,Work in Progress,11,17
+290,Inv290,320,1226,261,91,50,170,10,9,Out of Stock,Work in Progress,14,59
+291,Inv291,942,1055,118,47,21,71,10,5,Damaged,Raw Material,2,21
+292,Inv292,819,1399,286,2,51,284,10,8,In Stock,Raw Material,6,22
+293,Inv293,536,153,145,98,24,47,10,7,Damaged,Finished Goods,3,44
+294,Inv294,247,11,120,22,25,98,10,7,Damaged,Work in Progress,0,5
+295,Inv295,717,1107,179,14,58,165,10,9,In Transit,Work in Progress,8,54
+296,Inv296,319,227,211,66,51,145,10,8,Out of Stock,Finished Goods,11,24
+297,Inv297,308,133,169,93,24,76,10,9,Damaged,Raw Material,3,34
+298,Inv298,259,569,236,98,57,138,10,5,In Transit,Finished Goods,10,4
+299,Inv299,143,1183,114,83,35,31,10,6,In Transit,Finished Goods,2,4
+300,Inv300,974,525,117,66,45,51,10,8,Out of Stock,Finished Goods,6,15
+301,Inv301,120,1307,292,65,54,227,10,7,In Transit,Work in Progress,0,36
+302,Inv302,281,1325,188,85,34,103,10,8,In Stock,Raw Material,4,5
+303,Inv303,42,145,135,25,20,110,10,7,In Transit,Work in Progress,5,20
+304,Inv304,390,1233,232,13,45,219,10,7,In Transit,Raw Material,1,38
+305,Inv305,532,1447,232,23,54,209,10,8,In Stock,Finished Goods,3,26
+306,Inv306,911,1220,207,29,39,178,10,6,In Transit,Work in Progress,4,44
+307,Inv307,449,1391,118,14,25,104,10,5,In Transit,Finished Goods,14,44
+308,Inv308,479,442,273,31,32,242,10,8,In Stock,Finished Goods,14,26
+309,Inv309,922,308,141,45,40,96,10,9,In Transit,Work in Progress,14,19
+310,Inv310,245,355,282,29,42,253,10,5,In Transit,Work in Progress,2,1
+311,Inv311,966,857,233,6,25,227,10,6,In Transit,Finished Goods,8,13
+312,Inv312,933,545,171,13,57,158,10,9,Damaged,Raw Material,12,46
+313,Inv313,895,170,215,8,39,207,10,9,In Stock,Work in Progress,5,4
+314,Inv314,227,1126,182,54,57,128,10,6,Out of Stock,Finished Goods,14,26
+315,Inv315,339,249,184,47,26,137,10,6,Damaged,Raw Material,10,33
+316,Inv316,80,114,264,63,20,201,10,6,In Stock,Finished Goods,7,62
+317,Inv317,438,190,144,77,29,67,10,7,In Stock,Work in Progress,11,36
+318,Inv318,552,1365,120,43,52,77,10,7,Damaged,Work in Progress,4,49
+319,Inv319,246,326,245,63,48,182,10,6,Damaged,Work in Progress,11,38
+320,Inv320,894,212,265,33,42,232,10,5,In Transit,Work in Progress,4,8
+321,Inv321,904,1388,136,97,55,39,10,5,Damaged,Work in Progress,3,10
+322,Inv322,155,343,160,95,47,65,10,8,In Stock,Work in Progress,3,50
+323,Inv323,799,207,105,88,36,17,10,6,In Stock,Finished Goods,10,15
+324,Inv324,973,950,207,63,44,144,10,6,In Transit,Finished Goods,9,61
+325,Inv325,400,176,125,23,30,102,10,7,Damaged,Work in Progress,2,61
+326,Inv326,270,55,161,45,58,116,10,6,Damaged,Work in Progress,10,64
+327,Inv327,917,127,279,76,58,203,10,6,Damaged,Finished Goods,8,11
+328,Inv328,112,299,169,42,25,127,10,6,Damaged,Raw Material,5,61
+329,Inv329,196,552,140,88,39,52,10,7,Damaged,Finished Goods,1,31
+330,Inv330,968,785,177,58,41,119,10,5,Out of Stock,Raw Material,7,64
+331,Inv331,854,703,114,6,52,108,10,5,In Transit,Work in Progress,9,58
+332,Inv332,307,1152,187,61,49,126,10,8,In Transit,Finished Goods,7,41
+333,Inv333,491,690,166,38,29,128,10,8,In Stock,Work in Progress,14,2
+334,Inv334,520,423,217,66,40,151,10,9,Damaged,Finished Goods,1,52
+335,Inv335,287,514,158,98,34,60,10,8,Damaged,Work in Progress,2,9
+336,Inv336,952,1262,258,66,32,192,10,7,In Transit,Work in Progress,1,4
+337,Inv337,883,846,234,78,46,156,10,9,In Transit,Work in Progress,10,36
+338,Inv338,115,589,115,10,21,105,10,8,In Transit,Work in Progress,13,7
+339,Inv339,342,1269,246,6,25,240,10,5,In Stock,Raw Material,9,18
+340,Inv340,839,126,178,39,58,139,10,8,Damaged,Work in Progress,11,23
+341,Inv341,248,314,103,87,28,16,10,9,Out of Stock,Raw Material,13,13
+342,Inv342,938,12,299,69,54,230,10,7,In Transit,Finished Goods,9,54
+343,Inv343,141,921,219,84,39,135,10,9,Damaged,Finished Goods,11,63
+344,Inv344,132,82,258,94,28,164,10,6,In Transit,Finished Goods,9,50
+345,Inv345,923,1407,239,48,36,191,10,7,In Stock,Work in Progress,6,21
+346,Inv346,321,111,248,19,59,229,10,9,Damaged,Work in Progress,13,60
+347,Inv347,943,1330,271,92,49,179,10,5,In Transit,Raw Material,13,8
+348,Inv348,834,1492,116,29,39,87,10,7,Damaged,Finished Goods,0,43
+349,Inv349,394,1452,271,29,27,242,10,8,In Stock,Work in Progress,11,18
+350,Inv350,792,687,200,68,46,132,10,8,In Stock,Work in Progress,9,7
+351,Inv351,909,565,278,46,55,232,10,9,In Stock,Raw Material,6,52
+352,Inv352,548,33,246,69,59,177,10,9,In Stock,Raw Material,13,18
+353,Inv353,100,851,214,82,52,132,10,9,In Stock,Work in Progress,12,15
+354,Inv354,374,637,264,40,27,224,10,5,In Stock,Raw Material,1,25
+355,Inv355,327,1181,111,13,33,98,10,9,In Transit,Raw Material,3,10
+356,Inv356,668,1081,124,48,34,76,10,9,Damaged,Raw Material,8,42
+357,Inv357,567,642,108,55,40,53,10,9,Out of Stock,Work in Progress,13,43
+358,Inv358,275,1267,237,80,50,157,10,5,In Stock,Work in Progress,9,36
+359,Inv359,314,407,187,28,56,159,10,5,In Stock,Raw Material,5,34
+360,Inv360,764,1154,296,72,39,224,10,9,In Transit,Work in Progress,9,40
+361,Inv361,65,774,267,57,36,210,10,8,In Stock,Work in Progress,11,33
+362,Inv362,964,1123,268,21,57,247,10,9,In Transit,Work in Progress,8,12
+363,Inv363,441,1290,136,50,29,86,10,7,In Stock,Raw Material,5,5
+364,Inv364,423,1346,276,69,42,207,10,8,In Stock,Finished Goods,4,33
+365,Inv365,230,730,138,75,50,63,10,7,In Stock,Raw Material,6,35
+366,Inv366,641,38,265,90,44,175,10,8,In Transit,Finished Goods,2,27
+367,Inv367,233,1104,169,32,44,137,10,9,In Stock,Raw Material,12,43
+368,Inv368,121,561,139,85,21,54,10,5,In Transit,Finished Goods,3,62
+369,Inv369,122,346,111,42,51,69,10,6,In Transit,Raw Material,13,15
+370,Inv370,148,807,269,75,59,194,10,7,In Stock,Work in Progress,10,26
+371,Inv371,223,728,233,56,59,177,10,7,In Transit,Raw Material,2,55
+372,Inv372,426,1232,122,30,31,92,10,8,Out of Stock,Finished Goods,3,19
+373,Inv373,899,1393,166,52,27,114,10,8,Damaged,Raw Material,10,49
+374,Inv374,494,779,137,41,42,96,10,9,In Stock,Finished Goods,12,9
+375,Inv375,547,1099,213,5,43,208,10,7,In Transit,Work in Progress,1,4
+376,Inv376,874,1327,294,19,51,275,10,9,Damaged,Finished Goods,7,53
+377,Inv377,510,874,187,22,31,165,10,5,Out of Stock,Finished Goods,4,51
+378,Inv378,5,302,163,40,52,123,10,5,Damaged,Finished Goods,10,43
+379,Inv379,260,1227,155,69,20,86,10,6,In Transit,Finished Goods,3,41
+380,Inv380,621,1248,152,3,38,149,10,9,Out of Stock,Work in Progress,6,14
+381,Inv381,92,781,145,11,27,134,10,8,Out of Stock,Work in Progress,4,14
+382,Inv382,66,1292,130,27,41,103,10,6,In Stock,Finished Goods,6,24
+383,Inv383,226,843,125,15,25,110,10,7,Out of Stock,Work in Progress,8,22
+384,Inv384,803,408,151,29,20,122,10,7,In Stock,Finished Goods,14,13
+385,Inv385,716,866,103,65,20,38,10,6,In Transit,Work in Progress,6,48
+386,Inv386,117,873,245,29,34,216,10,7,In Stock,Finished Goods,10,2
+387,Inv387,703,1095,189,56,53,133,10,5,Damaged,Finished Goods,3,42
+388,Inv388,699,454,116,38,22,78,10,8,Out of Stock,Raw Material,3,14
+389,Inv389,684,697,231,37,20,194,10,5,In Stock,Finished Goods,14,41
+390,Inv390,492,912,274,90,30,184,10,5,Out of Stock,Finished Goods,9,15
+391,Inv391,947,634,277,47,46,230,10,5,Out of Stock,Finished Goods,2,11
+392,Inv392,366,1424,122,31,43,91,10,7,In Transit,Finished Goods,10,40
+393,Inv393,882,1015,269,16,28,253,10,8,In Stock,Finished Goods,4,45
+394,Inv394,232,373,205,20,46,185,10,5,Damaged,Work in Progress,5,30
+395,Inv395,661,23,261,15,57,246,10,7,In Stock,Work in Progress,11,45
+396,Inv396,253,672,296,64,37,232,10,7,In Transit,Work in Progress,5,55
+397,Inv397,774,1326,258,10,20,248,10,5,In Transit,Work in Progress,10,37
+398,Inv398,182,591,115,83,26,32,10,7,In Stock,Finished Goods,8,40
+399,Inv399,378,211,280,37,56,243,10,5,In Transit,Raw Material,12,24
+400,Inv400,357,1207,216,17,30,199,10,5,In Transit,Finished Goods,5,17
+401,Inv401,168,1175,299,9,25,290,10,8,Out of Stock,Raw Material,11,1
+402,Inv402,288,498,110,50,47,60,10,8,In Stock,Raw Material,5,15
+403,Inv403,618,1061,266,28,35,238,10,7,Damaged,Finished Goods,13,36
+404,Inv404,546,518,247,38,52,209,10,5,Out of Stock,Work in Progress,3,12
+405,Inv405,38,277,285,70,42,215,10,8,In Transit,Raw Material,1,39
+406,Inv406,977,1497,289,39,50,250,10,5,Out of Stock,Finished Goods,10,32
+407,Inv407,131,1082,222,71,47,151,10,9,Damaged,Raw Material,8,5
+408,Inv408,761,303,284,5,47,279,10,7,Damaged,Work in Progress,14,18
+409,Inv409,488,855,296,61,57,235,10,6,In Stock,Raw Material,6,55
+410,Inv410,98,1395,131,43,47,88,10,8,Out of Stock,Work in Progress,5,56
+411,Inv411,519,1491,278,98,42,180,10,9,In Stock,Work in Progress,12,30
+412,Inv412,791,693,199,50,38,149,10,8,Damaged,Work in Progress,8,44
+413,Inv413,915,1246,112,44,28,68,10,6,Damaged,Raw Material,11,30
+414,Inv414,481,617,128,33,34,95,10,7,In Stock,Work in Progress,11,45
+415,Inv415,164,982,237,93,54,144,10,9,Out of Stock,Work in Progress,13,36
+416,Inv416,298,946,137,7,24,130,10,9,Out of Stock,Raw Material,10,15
+417,Inv417,978,773,163,52,31,111,10,7,In Stock,Raw Material,12,8
+418,Inv418,119,297,225,72,25,153,10,5,Damaged,Work in Progress,13,24
+419,Inv419,241,345,118,84,30,34,10,7,Damaged,Work in Progress,8,10
+420,Inv420,905,741,192,63,44,129,10,9,Damaged,Finished Goods,3,8
+421,Inv421,480,172,213,49,21,164,10,5,In Transit,Raw Material,14,24
+422,Inv422,41,1265,175,48,45,127,10,6,Damaged,Finished Goods,14,64
+423,Inv423,776,962,134,23,36,111,10,9,Damaged,Raw Material,3,29
+424,Inv424,280,154,132,84,39,48,10,7,Damaged,Work in Progress,6,56
+425,Inv425,602,457,197,78,53,119,10,5,Damaged,Finished Goods,10,51
+426,Inv426,782,1438,238,12,34,226,10,7,In Stock,Raw Material,14,42
+427,Inv427,113,605,209,14,33,195,10,7,In Stock,Work in Progress,5,34
+428,Inv428,361,424,293,14,50,279,10,5,In Transit,Work in Progress,3,43
+429,Inv429,185,1215,193,80,39,113,10,6,Out of Stock,Raw Material,6,26
+430,Inv430,841,271,232,27,45,205,10,7,In Transit,Work in Progress,13,7
+431,Inv431,840,1079,103,37,53,66,10,9,In Stock,Work in Progress,4,43
+432,Inv432,427,818,154,37,54,117,10,9,Out of Stock,Work in Progress,10,32
+433,Inv433,849,354,149,49,38,100,10,5,Out of Stock,Raw Material,5,25
+434,Inv434,463,511,100,80,45,20,10,9,In Stock,Work in Progress,1,47
+435,Inv435,667,1160,259,72,43,187,10,9,Out of Stock,Work in Progress,7,23
+436,Inv436,240,1401,270,70,51,200,10,5,Out of Stock,Finished Goods,0,19
+437,Inv437,504,587,199,76,59,123,10,8,Damaged,Raw Material,7,1
+438,Inv438,890,333,299,70,42,229,10,5,Damaged,Finished Goods,12,44
+439,Inv439,649,710,273,35,20,238,10,7,Damaged,Work in Progress,7,5
+440,Inv440,429,662,105,19,39,86,10,5,In Stock,Raw Material,9,1
+441,Inv441,502,1250,209,57,28,152,10,9,In Transit,Work in Progress,11,60
+442,Inv442,135,487,249,78,52,171,10,9,Damaged,Work in Progress,14,58
+443,Inv443,103,1448,225,74,30,151,10,5,Damaged,Finished Goods,14,19
+444,Inv444,533,508,178,25,48,153,10,9,Damaged,Raw Material,14,43
+445,Inv445,239,370,243,50,44,193,10,9,Damaged,Raw Material,3,32
+446,Inv446,364,404,286,18,42,268,10,5,In Transit,Raw Material,13,19
+447,Inv447,616,1165,147,70,20,77,10,5,In Transit,Raw Material,7,12
+448,Inv448,853,1323,113,19,47,94,10,8,Out of Stock,Raw Material,14,49
+449,Inv449,779,543,211,69,21,142,10,9,In Stock,Raw Material,14,61
+450,Inv450,150,319,100,82,48,18,10,8,Damaged,Work in Progress,1,31
+451,Inv451,64,961,173,95,32,78,10,7,In Stock,Raw Material,13,38
+452,Inv452,788,1177,295,93,54,202,10,8,Damaged,Raw Material,3,0
+453,Inv453,950,1289,261,26,38,235,10,7,Out of Stock,Raw Material,6,11
+454,Inv454,48,458,176,10,45,166,10,5,In Transit,Finished Goods,10,19
+455,Inv455,302,376,254,63,46,191,10,9,In Stock,Finished Goods,12,48
+456,Inv456,194,836,270,59,26,211,10,8,In Transit,Finished Goods,6,22
+457,Inv457,436,875,100,90,51,10,10,7,In Stock,Raw Material,0,17
+458,Inv458,52,307,204,81,40,123,10,7,In Stock,Finished Goods,12,46
+459,Inv459,518,1322,107,59,21,48,10,9,Out of Stock,Finished Goods,9,33
+460,Inv460,828,1477,121,17,40,104,10,5,Damaged,Raw Material,4,5
+461,Inv461,250,1044,248,98,47,150,10,9,Out of Stock,Finished Goods,12,62
+462,Inv462,476,294,253,6,38,247,10,8,In Stock,Work in Progress,8,2
+463,Inv463,419,714,190,72,50,118,10,8,In Transit,Work in Progress,13,18
+464,Inv464,599,216,286,23,51,263,10,5,Damaged,Raw Material,14,49
+465,Inv465,813,881,105,69,46,36,10,5,Out of Stock,Finished Goods,3,56
+466,Inv466,629,75,127,27,31,100,10,9,Out of Stock,Raw Material,4,27
+467,Inv467,637,409,297,87,55,210,10,5,Out of Stock,Finished Goods,12,12
+468,Inv468,541,1043,118,90,58,28,10,7,Damaged,Work in Progress,5,0
+469,Inv469,79,707,235,89,29,146,10,5,In Stock,Finished Goods,5,48
+470,Inv470,15,66,206,61,57,145,10,6,Damaged,Work in Progress,5,1
+471,Inv471,123,638,150,81,22,69,10,8,Out of Stock,Finished Goods,0,42
+472,Inv472,474,425,171,30,39,141,10,8,In Transit,Work in Progress,12,6
+473,Inv473,600,50,298,35,56,263,10,5,Damaged,Raw Material,9,6
+474,Inv474,604,1173,241,55,24,186,10,8,Out of Stock,Work in Progress,11,42
+475,Inv475,465,414,249,54,25,195,10,9,Out of Stock,Raw Material,2,5
+476,Inv476,588,1286,202,34,52,168,10,6,Damaged,Finished Goods,8,24
+477,Inv477,578,1053,118,74,26,44,10,5,In Stock,Raw Material,0,52
+478,Inv478,191,574,299,73,41,226,10,8,Out of Stock,Finished Goods,10,27
+479,Inv479,442,970,282,90,20,192,10,8,Out of Stock,Finished Goods,12,56
+480,Inv480,760,979,160,88,43,72,10,6,Out of Stock,Raw Material,12,62
+481,Inv481,820,768,117,21,55,96,10,5,In Transit,Raw Material,14,52
+482,Inv482,636,598,253,92,50,161,10,8,Damaged,Finished Goods,12,47
+483,Inv483,580,531,118,46,30,72,10,9,Damaged,Finished Goods,3,63
+484,Inv484,559,1101,192,80,25,112,10,5,Damaged,Finished Goods,3,15
+485,Inv485,876,944,249,36,35,213,10,7,Out of Stock,Raw Material,3,17
+486,Inv486,106,125,111,83,39,28,10,7,In Transit,Raw Material,0,27
+487,Inv487,207,83,239,39,49,200,10,5,Out of Stock,Work in Progress,1,36
+488,Inv488,741,9,247,9,28,238,10,8,In Stock,Finished Goods,0,25
+489,Inv489,916,537,191,81,22,110,10,5,Out of Stock,Raw Material,5,13
+490,Inv490,572,533,297,26,32,271,10,6,Damaged,Work in Progress,4,45
+491,Inv491,628,735,241,11,56,230,10,8,Out of Stock,Raw Material,7,38
+492,Inv492,805,509,238,24,50,214,10,5,In Transit,Work in Progress,5,19
+493,Inv493,467,138,161,19,57,142,10,7,In Stock,Finished Goods,13,39
+494,Inv494,58,242,146,14,53,132,10,6,In Transit,Finished Goods,10,60
+495,Inv495,346,554,218,30,26,188,10,9,Damaged,Raw Material,6,45
+496,Inv496,719,704,107,46,32,61,10,6,In Stock,Work in Progress,10,50
+497,Inv497,545,1242,186,60,26,126,10,7,In Stock,Work in Progress,1,4
+498,Inv498,763,1464,254,86,37,168,10,6,In Transit,Work in Progress,8,11
+499,Inv499,832,87,144,76,43,68,10,9,Damaged,Raw Material,6,57
+500,Inv500,471,185,286,5,53,281,10,7,In Stock,Finished Goods,7,25
