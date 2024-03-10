@@ -1,0 +1,26 @@
+CLocID,CustomerCountry,CustomerState,CustomerCity,CustomerArea,CustomerZIPCode,IsDefault,CustomerID
+1,Canada,Quebec,Quebec City,Area1244,Zip1596,1,331
+2,Canada,British Columbia,Kelowna,Area3706,Zip6587,0,244
+3,Canada,British Columbia,Kelowna,Area6220,Zip7022,0,90
+4,Canada,British Columbia,Kelowna,Area1857,Zip9797,0,268
+5,Pakistan,KPK,Peshawar,Area8548,Zip431,1,116
+6,Canada,British Columbia,Kelowna,Area7312,Zip4316,0,124
+7,Canada,British Columbia,Kelowna,Area6308,Zip2637,0,178
+8,Canada,British Columbia,Kelowna,Area7158,Zip7859,1,175
+9,Canada,Quebec,Sherbrooke,Area7442,Zip3396,0,194
+10,Canada,British Columbia,Kelowna,Area1889,Zip8287,1,1
+11,Canada,Ontario,Hamilton,Area2501,Zip4478,1,211
+12,Pakistan,KPK,Peshawar,Area799,Zip4014,0,31
+13,Canada,Quebec,Sherbrooke,Area6810,Zip1111,1,28
+14,Pakistan,KPK,Peshawar,Area6569,Zip3677,1,282
+15,Canada,British Columbia,Kelowna,Area2091,Zip6978,0,72
+16,Canada,British Columbia,Kelowna,Area6974,Zip2727,1,227
+17,Canada,Ontario,Toronto,Area3750,Zip3106,0,271
+18,Canada,British Columbia,Kelowna,Area6450,Zip2639,1,5
+19,Canada,Quebec,Sherbrooke,Area4590,Zip1823,1,111
+20,Canada,British Columbia,Kelowna,Area8120,Zip342,1,108
+21,Canada,British Columbia,Vancouver,Area2666,Zip4273,0,58
+22,Canada,British Columbia,Kelowna,Area1573,Zip7683,1,46
+23,Canada,British Columbia,Kelowna,Area5911,Zip8805,0,313
+24,Canada,British Columbia,Vancouver,Area2118,Zip2640,1,267
+25,Canada,British Columbia,Kelowna,Area3562,Zip7573,0,301

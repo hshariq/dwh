@@ -1,0 +1,11 @@
+PManagerID,PManagerName,PManagerDOB,PManagerAge,PManagerGender,PManagerEmail,PManagerPhoneNumber,PManagerCreatedDate,IsActive
+1,Shannon Jones,25-12-2001,23,F,shannonjones.rkk@gmail.com,908-750-7403,16-5-2020,True
+2,Christopher Perez,6-4-1999,25,M,christopherperez.ydi@gmail.com,400-436-6672,6-1-2017,True
+3,Garrett Hutchinson,24-1-2001,23,M,garretthutchinson.rg5@gmail.com,367-266-6107,13-4-2015,True
+4,Carol Davenport,16-1-1999,25,F,caroldavenport.7uv@gmail.com,595-956-3738,21-4-2018,True
+5,Laura James,22-11-2000,24,F,laurajames.x7z@gmail.com,340-833-3510,7-6-2017,True
+6,Crystal Fleming,2-6-2000,24,F,crystalfleming.br0@gmail.com,386-811-4187,21-4-2024,False
+7,Erika King,21-7-2001,23,F,erikaking.dhc@gmail.com,566-607-2836,8-1-2023,False
+8,Jeremy Fox,2-2-1997,27,M,jeremyfox.mve@gmail.com,377-504-9715,6-4-2024,True
+9,Benjamin Proctor,7-10-1995,29,M,benjaminproctor.890@gmail.com,411-683-4554,4-9-2022,True
+10,Kara Smith,14-2-1995,29,F,karasmith.jh9@gmail.com,131-853-1779,22-9-2015,False

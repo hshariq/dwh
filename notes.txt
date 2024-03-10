@@ -1,0 +1,7 @@
+We have 200 productIDs that repeat
+We have 350 customerIDs
+We have 200 OrderIDs
+We have 300 EDateIDs
+We have 500 InventoryID
+We have 15 WarehouseIDs
+We have 10 ProdManagers

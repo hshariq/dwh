@@ -1,0 +1,16 @@
+,WarehouseID,ManagerID,WarehouseName,WarehousePhoneNumber,WarehouseCapacity,WarehouseCountry,WarehouseState,WarehouseCity,WarehouseArea,WarehouseZIPCode,WarehouseTemparature,IsTemperatureControlled,WarehouseCreationDate,WarehouseLife,WarehouseUpdatedDate,IsWarehouseActive,WarehouseAccessHours,WarehouseEmergencyExits,WarehouseCCTVs,WarehouseFireSuppressionSystem,WarehouseRacks
+0,1,1,Warehouse1,801-590-5098,5783,Canada,British Columbia,Kelowna,Area8251,Zip7183,35,0,5-2-2008,16,26-2-2021,1,9:00 am - 6:00 pm,30,131,11,466
+1,2,2,Warehouse2,229-851-9619,5612,Canada,Quebec,Sherbrooke,Area7327,Zip4146,23,1,16-7-2009,15,3-4-2022,1,9:00 am - 6:00 pm,20,89,2,358
+2,3,3,Warehouse3,484-123-1754,7296,Canada,British Columbia,Kelowna,Area6589,Zip1157,20,1,26-7-2017,7,6-5-2022,0,10:00 am - 7:00 pm,50,123,14,410
+3,4,4,Warehouse4,615-220-1013,372,Canada,British Columbia,Victoria,Area3541,Zip6940,23,1,20-4-2008,16,13-4-2022,1,8:00 am - 5:00 pm,28,92,18,233
+4,5,5,Warehouse5,833-771-7140,2309,Pakistan,Sindh,Sukkur,Area742,Zip5255,25,0,4-2-2010,14,19-3-2021,0,11:00 am - 8:00 pm,45,59,8,434
+5,6,6,Warehouse6,697-416-9994,1332,Pakistan,KPK,Peshawar,Area1059,Zip9933,29,1,5-9-2012,12,11-1-2022,0,9:00 am - 6:00 pm,21,70,16,366
+6,7,7,Warehouse7,286-432-1907,8136,Canada,British Columbia,Victoria,Area6195,Zip8741,10,0,25-7-2017,7,15-7-2021,1,8:00 am - 5:00 pm,22,94,7,239
+7,8,8,Warehouse8,363-409-9751,6445,Canada,British Columbia,Victoria,Area6852,Zip2691,27,0,16-6-2015,9,9-4-2022,1,11:00 am - 8:00 pm,45,82,6,93
+8,9,9,Warehouse9,827-994-9152,5606,Canada,British Columbia,Kelowna,Area6373,Zip8376,27,0,8-3-2016,8,2-11-2022,0,10:00 am - 7:00 pm,41,64,2,299
+9,10,10,Warehouse10,514-463-1556,3881,Canada,British Columbia,Kelowna,Area9910,Zip1337,29,1,23-9-2014,10,1-11-2021,0,10:00 am - 7:00 pm,23,101,11,338
+10,11,11,Warehouse11,407-244-3999,2686,Canada,British Columbia,Kelowna,Area5931,Zip5257,12,1,7-3-2007,17,16-6-2021,1,10:00 am - 7:00 pm,27,82,9,397
+11,12,12,Warehouse12,235-534-7216,8556,Canada,British Columbia,Kelowna,Area3512,Zip2595,34,0,9-5-2012,12,9-6-2023,1,8:00 am - 5:00 pm,40,131,8,320
+12,13,13,Warehouse13,521-760-2984,7684,Canada,Quebec,Sherbrooke,Area2238,Zip6454,16,0,13-3-2011,13,12-6-2023,0,11:00 am - 8:00 pm,18,56,11,201
+13,14,14,Warehouse14,905-148-5085,2909,Canada,British Columbia,Kelowna,Area9783,Zip2461,8,1,16-7-2015,9,3-7-2021,0,11:00 am - 8:00 pm,43,127,8,371
+14,15,15,Warehouse15,877-508-9259,5476,Canada,British Columbia,Kelowna,Area4845,Zip7116,3,0,2-2-2009,15,22-7-2022,0,11:00 am - 8:00 pm,33,94,13,53
